@@ -4,7 +4,6 @@ A real-time analytics pipeline built using AWS serverless services. This project
 
 ## Architecture Overview
 
-![Architecture Diagram]
 
 The pipeline consists of the following components:
 - API Gateway: Provides REST API endpoints for data ingestion and analytics
