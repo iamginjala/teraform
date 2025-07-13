@@ -33,7 +33,7 @@ The pipeline consists of the following components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iamginjala/teraform/serverless-analytics-pipeline.git
+git clone https://github.com/yourusername/serverless-analytics-pipeline.git
 cd serverless-analytics-pipeline
 ```
 
